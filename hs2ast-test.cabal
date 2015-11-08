@@ -22,5 +22,7 @@ library
                      , HS2AST
                      , QuickCheck
                      , ghc
+                     , atto-lisp
+                     , derive
   hs-source-dirs:      src
   default-language:    Haskell2010
